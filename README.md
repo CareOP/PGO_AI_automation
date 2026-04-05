@@ -1,2 +1,1 @@
-# PGO_AI_automation
-This is the space to build for the RAG and AI components call and maintaining the part of AI integraton into the platform.
+PharmaGO is an AI-powered healthcare operations platform that automates appointments, QR-based check-ins, queue management, prescriptions, and pharmacy workflows. Built with a workflow-first design, it uses AI as an assistive layer to improve efficiency while remaining reliable and suitable for real clinical environments.
